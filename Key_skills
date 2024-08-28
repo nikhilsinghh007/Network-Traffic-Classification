@@ -1,0 +1,9 @@
+key data science skills you've learned from this project:
+
+-Data Manipulation: Using pandas to load, inspect, and clean data, preparing it for analysis.
+-Categorical Encoding: Converting text labels into numerical values with LabelEncoder to make them suitable for machine learning models.
+-Data Splitting: Dividing data into training and testing sets to evaluate model performance effectively.
+-Feature Scaling: Standardizing data using StandardScaler to ensure consistency in model input features.
+-Model Building: Training a Support Vector Machine (SVM) for classification, a crucial machine learning technique.
+-Model Evaluation: Assessing model performance with accuracy, precision, recall, and F1-score metrics to determine effectiveness.
+-Python Programming: Strengthening Python skills, particularly in data science and machine learning contexts.
