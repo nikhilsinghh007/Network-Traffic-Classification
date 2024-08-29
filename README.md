@@ -1,9 +1,9 @@
 # Network-Traffic-Classification
-This project focuses on building a binary classification model using a Support Vector Machine (SVM). The model is trained to classify data based on a given feature set from the UNSW-NB15 dataset. After preprocessing the data and splitting it into training and testing sets, the SVM model was trained and evaluated, achieving high performance in terms of accuracy, precision, recall, and F1-score.
+This project focuses on building a binary classification model using a Support Vector Machine (SVM). The model is trained to classify data based on a given feature set from my own 'UNSW_NB15_testing-set.csv' dataset. After preprocessing the data and splitting it into training and testing sets, the SVM model was trained and evaluated, achieving high performance in terms of accuracy, precision, recall, and F1-score.
 
 Key Points:
 Objective: Classify network traffic data (normal or malicious) using SVM.
-Dataset: UNSW-NB15.
+Dataset: 'UNSW_NB15_testing-set.csv'
 Evaluation Metrics: Accuracy (96.6%), Precision (96.8%), Recall (98.2%), F1-score (97.5%).
 
 The 'UNSW_NB15_testing-set.csv' file contains data with 45 columns and 175,341 rows. The columns represent various features that appear to network traffic analysis, for cybersecurity purposes. Here's a breakdown of some of the key columns:
